@@ -66,7 +66,6 @@ SELECT * FROM B;
 ### The output for table A will be:
 ![image](https://github.com/Evangelin-Ruth/dbms-ex6/assets/94219798/0e671708-273f-4424-b165-7a66ddee439c)
 ### The output for table B will be:
-The output for table B will be:
 ### Union:
 ![image](https://github.com/Evangelin-Ruth/dbms-ex6/assets/94219798/ad5bfae7-70fb-4569-9384-af932a0ff89a)
 ### Union All:
